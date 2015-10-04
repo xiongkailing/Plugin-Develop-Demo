@@ -1,0 +1,8 @@
+F:\MyCode\PluginDemo\PluginDemo\bin\Debug\PluginDemo.exe.config
+F:\MyCode\PluginDemo\PluginDemo\bin\Debug\PluginDemo.exe
+F:\MyCode\PluginDemo\PluginDemo\bin\Debug\PluginDemo.pdb
+F:\MyCode\PluginDemo\PluginDemo\bin\Debug\Plugin.Interfaces.dll
+F:\MyCode\PluginDemo\PluginDemo\bin\Debug\Plugin.Interfaces.pdb
+F:\MyCode\PluginDemo\PluginDemo\obj\Debug\PluginDemo.csprojResolveAssemblyReference.cache
+F:\MyCode\PluginDemo\PluginDemo\obj\Debug\PluginDemo.exe
+F:\MyCode\PluginDemo\PluginDemo\obj\Debug\PluginDemo.pdb

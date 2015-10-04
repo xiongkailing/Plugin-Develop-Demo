@@ -1,0 +1,4 @@
+F:\MyCode\PluginDemo\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.dll
+F:\MyCode\PluginDemo\Plugin.Interfaces\bin\Debug\Plugin.Interfaces.pdb
+F:\MyCode\PluginDemo\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.dll
+F:\MyCode\PluginDemo\Plugin.Interfaces\obj\Debug\Plugin.Interfaces.pdb
